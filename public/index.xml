@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on MEDIATION Catalog</title>
+    <link>https://mediation-catalog.github.io/</link>
+    <description>Recent content in Home on MEDIATION Catalog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mediation-catalog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Codes &amp; software</title>
+      <link>https://mediation-catalog.github.io/code/codes/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/code/codes/</guid>
+      <description>According to F.A.I.R. data principles, codes and pieces of software that have been proven useful in the MEDIATION context will be made publicly available in our github organization.</description>
+    </item>
+    
+    <item>
+      <title>Pierre Rampal</title>
+      <link>https://mediation-catalog.github.io/team/pierre-rampal/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/pierre-rampal/</guid>
+      <description>Centre National de la Recherche Scientifique, France
+Sea-ice physics, Sea-ice remote sensing, Polar oceanography</description>
+    </item>
+    
+    <item>
+      <title>SASIP Job Offer in Grenoble, FR</title>
+      <link>https://mediation-catalog.github.io/jobs/ige/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/jobs/ige/</guid>
+      <description>3-years researcher or post-doctoral researcher position in Grenoble, France on processes and modelling of the sea ice/ocean/atmosphere system.
+Within SASIP project, the successful candidate will focus particularly on the sea ice dynamics simulated by the new neXtSIM-DG model, comparing it to both observations and other existing sea ice models (e.g. SI3 or neXtSIM in its Lagrangian version). In particular, the researcher will evaluate the realism of this dynamics including a new sub-mesh physics parameterization that takes into account ice floe dynamics (developed within SASIP by another team based in Grenoble), and will try to characterize its impact on oceanic or atmospheric boundary layers.</description>
+    </item>
+    
+    <item>
+      <title>WP1 Sea Ice Code Development — Optimization</title>
+      <link>https://mediation-catalog.github.io/research/work-package-one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/research/work-package-one/</guid>
+      <description>Our ambition is to develop of the neXtSIM sea ice model to run on massively parallel architectures, making its inclusion in an Earth System Model feasible.
+To accomplish this we will improve the numerical efficiency of its underlying C++ code and perform exploratory work to enable continued improvements in model efficiency beyond those immediately necessary for integrating it into a climate model.
+WP1 is divided into five tasks, two of which address known shortcomings of the current model version, two which aim to push the numerical performanc eof the model further and one concerned with evaluating the physical consistency of the results obtained with the updated model code.</description>
+    </item>
+    
+    <item>
+      <title>Datasets</title>
+      <link>https://mediation-catalog.github.io/code/data/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/code/data/</guid>
+      <description>The mediation data are stored either on long-lasting servers (ideally), or on several high-performance computing clusters (mainly). They can be retrieved from our github organization.</description>
+    </item>
+    
+    <item>
+      <title>What is available</title>
+      <link>https://mediation-catalog.github.io/pages/test_about/available/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/pages/test_about/available/</guid>
+      <description>The tools, simulations and observations are listed and detailed on the MEDIATION catalog. They are either available by direct download on this repository, or by a hyperlink / access path.</description>
+    </item>
+    
+    <item>
+      <title>What is going on</title>
+      <link>https://mediation-catalog.github.io/pages/test_about/ongoing/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/pages/test_about/ongoing/</guid>
+      <description>The project focuses on developing innovative tools and raise knowledge on ocean modelling, in order to better assess the impact of climate change on the global ocean and to efficiently inform stakeholders. It meets the sixth challenge among the seven set out by the french Priority Research Program (PPR) named &amp;lsquo;Océan et Climat&amp;rsquo;. It consists in a large-scale, multidisciplinary, publicly-funded initiative, determined by 3 main goals:
+ To better understand and adapt to how the global ocean responds to the climate change, To maintain and develop a sustainable anthropic exploitation of oceanic resources, To reduce ocean pollution.</description>
+    </item>
+    
+    <item>
+      <title>Solène Guyard</title>
+      <link>https://mediation-catalog.github.io/team/solene-guyard/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/solene-guyard/</guid>
+      <description>Centre National de la Recherche Scientifique, France
+Project management, solidarity, scientific cooperation</description>
+    </item>
+    
+    <item>
+      <title>SASIP Job Offer in Grenoble, FR</title>
+      <link>https://mediation-catalog.github.io/jobs/isterre1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/jobs/isterre1/</guid>
+      <description>18-month post-doctoral researcher position in Grenoble, France on modelling mechanical interactions between waves and sea ice.
+Within SASIP project, the successful candidate will focus particularly on (i) implementing new parameterizations in an existing large-scale coupled sea ice-ocean model, NeXtSIM, with the help of a research engineer (ii) validating the new parameterizations on the basis of comparisons with observations of ice deformation and drift (iii) adjusting, if necessary, the mechanical parameterizations according to the results of these comparisons and in the view of the specific needs of regional and global scales sea ice models.</description>
+    </item>
+    
+    <item>
+      <title>WP2 Sea Ice Rheology — Physical Parameterizations</title>
+      <link>https://mediation-catalog.github.io/research/work-package-two/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/research/work-package-two/</guid>
+      <description>We are concerned with enhancing the mechanical parametrizations of the rheological framework employed in the continuum sea ice model developed within SASIP.
+The aim is to develop physically sound parametrizations that can translate the dependence of the mechanical strength of the ice cover at the large scale (10-100 km) on both its granular concentration and level of fracturing at the small scale (&amp;lt; 10 km), thereby enabling the rheological framework to represent adequately the spatial and temporal mechanical transition between a dense, brittle ice pack and a loose, granular aggregate of ice floes reminiscent of the Marginal Ice Zone.</description>
+    </item>
+    
+    <item>
+      <title>Einar Ólason</title>
+      <link>https://mediation-catalog.github.io/team/einar-olason/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/einar-olason/</guid>
+      <description>Nansen Environmental and Remote Sensing Center, Norway
+Sea-ice modeling and dynamics, Atmosphere-Ocean-Ice interactions</description>
+    </item>
+    
+    <item>
+      <title>SASIP Job Offer in Grenoble, FR</title>
+      <link>https://mediation-catalog.github.io/jobs/isterre2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/jobs/isterre2/</guid>
+      <description>24-month post-doctoral researcher position in Grenoble, France on mechanical sea ice modelling.
+Within SASIP project, the successful candidate will focus particularly on formulating an equation for the evolution of the Floe Size Distribution (FSD) associated with wave-ice interactions that can be used in large-scale (10-100 km) continuous sea ice models
+The researcher/post-doctoral fellow will a work in a group specialized in the mechanics of continuous media and of sea ice in particular, including engineers, PhD students and postdoctoral fellows.</description>
+    </item>
+    
+    <item>
+      <title>WP3 Ice–Ocean Interactions</title>
+      <link>https://mediation-catalog.github.io/research/work-package-three/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/research/work-package-three/</guid>
+      <description>Across a single sea ice floe just a few meters wide, upper ocean exchanges of heat, momentum, and freshwater can vary by two orders of magnitude.
+Ocean surface waves flex and fragment sea ice altering its geometry, driving ocean mixing and sea ice melting. These effects, and their important impact on sea ice and ocean variability, are forced by variations in sea ice geometry much smaller than a continuum climate model grid scale.</description>
+    </item>
+    
+    <item>
+      <title>Véronique Dansereau</title>
+      <link>https://mediation-catalog.github.io/team/veronique-dansereau/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/veronique-dansereau/</guid>
+      <description>Centre National de la Recherche Scientifique, France
+Sea ice rheology, Solid mechanics, Multi-scale modeling</description>
+    </item>
+    
+    <item>
+      <title>SASIP Post-Doc Offer in Toulouse, FR</title>
+      <link>https://mediation-catalog.github.io/jobs/postdoc-ceci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/jobs/postdoc-ceci/</guid>
+      <description>We are looking for a highly motivated postdoctoral researcher with an interest in ice-ocean and ice-atmosphere interactions to assess the climate relevance of integrating a newly developed sea ice model based on Brittle Bingham-Maxwell (BBM) rheology into a fully coupled climate model.
+The postdoc will take advantage of the recent integration of the BBM rheology into SI3 (Brodeau et al. 2024), the sea ice component of the NEMO ocean model, to explore its advantages over the default Viscous-Plastic rheology of SI3.</description>
+    </item>
+    
+    <item>
+      <title>WP4 Data Assimilation — Machine Learning</title>
+      <link>https://mediation-catalog.github.io/research/work-package-four/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/research/work-package-four/</guid>
+      <description>We complement the model development efforts of the other WPs by providing data-constrained sea ice analyses.
+To meet this goal we shall develop specific and novel data assimilation (DA) methods adapted to the new continuum version of the sea ice model neXtSIM discretised using discontinuous Galerkin method. WP4 will also use state-of-the art DA and machine learning (ML) methods not used in sea ice modeling before, and develop novel approaches for the unique computational and physical features of neXtSIM.</description>
+    </item>
+    
+    <item>
+      <title>Chris Horvat</title>
+      <link>https://mediation-catalog.github.io/team/chris-horvat/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/chris-horvat/</guid>
+      <description>Brown University, United States
+Sea-ice modeling, Remote sensing, Oceanography</description>
+    </item>
+    
+    <item>
+      <title>WP5 Climate Implications</title>
+      <link>https://mediation-catalog.github.io/research/work-package-five/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/research/work-package-five/</guid>
+      <description>Sea ice is at the heart of numerous climate feedbacks that occur in polar regions and that can play an important role in observed and projected Arctic amplification of surface air temperature increase.
+Hence, we expect that a more accurate representation of sea ice dynamics would lead to a better climate mean state and variability in sea-ice covered areas. Whether this matters for representing the climate response to increased CO2 in polar regions and beyond remains an open question.</description>
+    </item>
+    
+    <item>
+      <title>Alberto Carrassi</title>
+      <link>https://mediation-catalog.github.io/team/alberto-carrassi/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/alberto-carrassi/</guid>
+      <description>University of Reading (UK) &amp;amp; University of Bologna (I)
+Data assimilation, Dynamical system, Machine learning</description>
+    </item>
+    
+    <item>
+      <title>Contact us for more job opportunities</title>
+      <link>https://mediation-catalog.github.io/jobs/contact-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/jobs/contact-us/</guid>
+      <description>You can reach out to office(at)sasip-climate.com</description>
+    </item>
+    
+    <item>
+      <title>Rym Msadek</title>
+      <link>https://mediation-catalog.github.io/team/rym-msadek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/rym-msadek/</guid>
+      <description>Centre National de la Recherche Scientifique, France
+Climate predictability, Decadal ocean variability</description>
+    </item>
+    
+    <item>
+      <title>Aurélie Albert</title>
+      <link>https://mediation-catalog.github.io/team/aurelie-albert/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/aurelie-albert/</guid>
+      <description>Centre National de la Recherche Scientifique, France
+Oceanography, Numerical Modeling, Big Data</description>
+    </item>
+    
+    <item>
+      <title>Stephanie Leroux</title>
+      <link>https://mediation-catalog.github.io/team/stephanie-leroux/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/stephanie-leroux/</guid>
+      <description>Datlas, Grenoble, France
+Ocean &amp;amp; sea ice modeling, data processing &amp;amp; visualisation</description>
+    </item>
+    
+    <item>
+      <title>Ali Aydogdu</title>
+      <link>https://mediation-catalog.github.io/team/ali-aydogdu/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/ali-aydogdu/</guid>
+      <description>Centro Euro-Mediterraneo sui Cambiamenti Climatici, Italy
+Data assimilation, Ocean/sea-ice forecasting/reanalysis, Unstructured mesh models</description>
+    </item>
+    
+    <item>
+      <title>Laurent Bertino</title>
+      <link>https://mediation-catalog.github.io/team/laurent-bertino/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/laurent-bertino/</guid>
+      <description>Nansen Environmental and Remote Sensing Center, Norway
+Data assimilation, Ocean and sea ice modeling, Geostatistics</description>
+    </item>
+    
+    <item>
+      <title>Marc Bocquet</title>
+      <link>https://mediation-catalog.github.io/team/marc-boquet/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/marc-boquet/</guid>
+      <description>Ecole des Ponts, France
+Data assimilation, Machine learning, Dynamical systems</description>
+    </item>
+    
+    <item>
+      <title>Romain Bourdalle Badie</title>
+      <link>https://mediation-catalog.github.io/team/romain-bourdalle-badie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/romain-bourdalle-badie/</guid>
+      <description>Mercator Ocean International, France
+Ocean and sea ice modeling, Ocean sea-ice reanalysis, OGCM</description>
+    </item>
+    
+    <item>
+      <title>Guillaume Boutin</title>
+      <link>https://mediation-catalog.github.io/team/guillaume-boutin/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/guillaume-boutin/</guid>
+      <description>Nansen Environmental and Remote Sensing Centre , Norway
+Sea ice, Waves, Numerical Modelling</description>
+    </item>
+    
+    <item>
+      <title>Julien Brajard</title>
+      <link>https://mediation-catalog.github.io/team/julien-brajard/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/julien-brajard/</guid>
+      <description>Nansen Environmental and Remote Sensing Center, Norway
+Machine learning, Data assimilation</description>
+    </item>
+    
+    <item>
+      <title>Laurent Brodeau</title>
+      <link>https://mediation-catalog.github.io/team/laurentbrodeau/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/laurentbrodeau/</guid>
+      <description>Centre National de la Recherche Scientifique, France
+Ocean &amp;amp; sea ice modeling, HPC, Parametrisations</description>
+    </item>
+    
+    <item>
+      <title>Yumeng Chen</title>
+      <link>https://mediation-catalog.github.io/team/yumeng-chen/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/yumeng-chen/</guid>
+      <description>University of Reading, UK
+Data assimilation, Numerical methods</description>
+    </item>
+    
+    <item>
+      <title>Simon Driscoll</title>
+      <link>https://mediation-catalog.github.io/team/simon-driscoll/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/simon-driscoll/</guid>
+      <description>University of Reading, UK
+Machine Learning, Emulation and Data Assimilation</description>
+    </item>
+    
+    <item>
+      <title>Charlotte Durand</title>
+      <link>https://mediation-catalog.github.io/team/charlotte-durand/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/charlotte-durand/</guid>
+      <description>Centre d&amp;rsquo;Enseignement et de Recherche en Environnement Atmosphérique, France
+Data assimilation, Deep learning</description>
+    </item>
+    
+    <item>
+      <title>Alban Farchi</title>
+      <link>https://mediation-catalog.github.io/team/alban-farchi/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/alban-farchi/</guid>
+      <description>Centre d&amp;rsquo;Enseignement et de Recherche en Environnement Atmosphérique, France
+Data assimilation, Machine learning, Model error correction</description>
+    </item>
+    
+    <item>
+      <title>Tobias Finn,</title>
+      <link>https://mediation-catalog.github.io/team/tobias-finn/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/tobias-finn/</guid>
+      <description>Centre d&amp;rsquo;Enseignement et de Recherche en Environnement Atmosphérique, France
+Data assimilation, Machine learning, Earth system modelling</description>
+    </item>
+    
+    <item>
+      <title>Baylor Fox-Kemper</title>
+      <link>https://mediation-catalog.github.io/team/baylor-fox-kemper/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/baylor-fox-kemper/</guid>
+      <description>Brown University, United States
+Physical Oceanography, Climate, Turbulence, Waves</description>
+    </item>
+    
+    <item>
+      <title>Momme Hell</title>
+      <link>https://mediation-catalog.github.io/team/momme-hell/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/momme-hell/</guid>
+      <description>Brown University, United States
+Surface waves, Sea ice, Remote sensing, surface winds, ocean mixing, GFD, Machine learning</description>
+    </item>
+    
+    <item>
+      <title>Christopher K. Jones</title>
+      <link>https://mediation-catalog.github.io/team/christopher-jones/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/christopher-jones/</guid>
+      <description>University of North Carolina, USA
+Data assimilation, Dynamical systems, Applied PDE</description>
+    </item>
+    
+    <item>
+      <title>Anton Korosov</title>
+      <link>https://mediation-catalog.github.io/team/anton-korosov/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/anton-korosov/</guid>
+      <description>Nansen Environmental and Remote Sensing Centre , Norway
+Remote sensing, Data assimilation, Machine learning</description>
+    </item>
+    
+    <item>
+      <title>Stéphane Labbé</title>
+      <link>https://mediation-catalog.github.io/team/stephane-labbe/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/stephane-labbe/</guid>
+      <description>Sorbonne Université, France
+Applied mathematics, scientific computing, discrete element modelling</description>
+    </item>
+    
+    <item>
+      <title>Toai Phan</title>
+      <link>https://mediation-catalog.github.io/team/toai-phan/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/toai-phan/</guid>
+      <description>Sorbonne Université, France
+Discrete element modelling of sea ice, contact mechanics</description>
+    </item>
+    
+    <item>
+      <title>Flavia Porro</title>
+      <link>https://mediation-catalog.github.io/team/flavia-porro/</link>
+      <pubDate>Fri, 09 Jun 2023 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/flavia-porro/</guid>
+      <description>University of Bologna, Italy
+Data Assimilation and Machine Learning</description>
+    </item>
+    
+    <item>
+      <title>Thomas Richter</title>
+      <link>https://mediation-catalog.github.io/team/thomas-richter/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/thomas-richter/</guid>
+      <description>Otto-von-Guericke University of Magdeburg, Germany
+Sea-ice modeling and dynamics, Numerical methods, Parallel computing</description>
+    </item>
+    
+    <item>
+      <title>Clément Rousset</title>
+      <link>https://mediation-catalog.github.io/team/clement-rousset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/clement-rousset/</guid>
+      <description>Centre National de la Recherche Scientifique, France
+Sea-ice modeling, polar oceanography</description>
+    </item>
+    
+    <item>
+      <title>Abdoulaye Samaké</title>
+      <link>https://mediation-catalog.github.io/team/abdoulayesamake/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/abdoulayesamake/</guid>
+      <description>University of Sciences, Techniques and Technologies of Bamako, Mali
+High performance computing, numerical modeling, finite element analysis</description>
+    </item>
+    
+    <item>
+      <title>Rafael Santana</title>
+      <link>https://mediation-catalog.github.io/team/rafael-santana/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/rafael-santana/</guid>
+      <description>University of Auckland, New Zealand
+Ocean and sea ice modelling, Parametrisation, Data assimilation</description>
+    </item>
+    
+    <item>
+      <title>Polly Smith</title>
+      <link>https://mediation-catalog.github.io/team/polly-smith/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/polly-smith/</guid>
+      <description>University of Reading, UK
+Data assimilation, Parameter estimation, Machine learning</description>
+    </item>
+    
+    <item>
+      <title>Tim Spain</title>
+      <link>https://mediation-catalog.github.io/team/tim-spain/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/tim-spain/</guid>
+      <description>Nansen Environmental and Remote Sensing Center, Norway
+Sea-ice modeling, GCMs</description>
+    </item>
+    
+    <item>
+      <title>Laurent Terray</title>
+      <link>https://mediation-catalog.github.io/team/laurent-terray/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/laurent-terray/</guid>
+      <description>Centre National de la Recherche Scientifique, France
+Machine learning, polar climate, Arctic-midlatitudes linkages</description>
+    </item>
+    
+    <item>
+      <title>Sophie Valcke</title>
+      <link>https://mediation-catalog.github.io/team/sophie-valcke/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/sophie-valcke/</guid>
+      <description>Centre Européen de Recherche et Formation Avancée en Calcul Scientifique, France
+code coupling, OASIS coupler, global climate modelling, ocean-atmosphere interface</description>
+    </item>
+    
+    <item>
+      <title>Martin Vancoppenolle</title>
+      <link>https://mediation-catalog.github.io/team/martin-vancoppenolle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/martin-vancoppenolle/</guid>
+      <description>Centre National de la Recherche Scientifique, France
+Sea ice physics, Earth System modelling, polar marine ecosystems</description>
+    </item>
+    
+    <item>
+      <title>Jérome Weiss</title>
+      <link>https://mediation-catalog.github.io/team/jerome-weiss/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/jerome-weiss/</guid>
+      <description>Centre National de la Recherche Scientifique, France
+Solid mechanics, Sea ice mechanics</description>
+    </item>
+    
+    <item>
+      <title>Timothy Williams</title>
+      <link>https://mediation-catalog.github.io/team/timothy-williams/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/timothy-williams/</guid>
+      <description>Nansen Environmental and Remote Sensing Center, Norway
+Wave-ice interactions</description>
+    </item>
+    
+    <item>
+      <title>Yue (Michael) Ying</title>
+      <link>https://mediation-catalog.github.io/team/yue-ying/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/yue-ying/</guid>
+      <description>Nansen Environmental and Remote Sensing Center, Norway
+Data assimilation, Multiscale dynamic system, Predictability</description>
+    </item>
+    
+    <item>
+      <title>Niccolò Zanotti</title>
+      <link>https://mediation-catalog.github.io/team/niccolo-zanotti/</link>
+      <pubDate>Fri, 09 Jun 2023 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/niccolo-zanotti/</guid>
+      <description>University of Bologna, Italy
+Machine learning, Sea-ice dynamics</description>
+    </item>
+    
+    <item>
+      <title>Anne-Sarah Amblard</title>
+      <link>https://mediation-catalog.github.io/team/anne-sarah-amblard/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/anne-sarah-amblard/</guid>
+      <description>Centre National de la Recherche Scientifique, France
+Sea-ice modelling, granular media mechanics</description>
+    </item>
+    
+    <item>
+      <title>Robert Jendersie</title>
+      <link>https://mediation-catalog.github.io/team/robert-jendersie/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/robert-jendersie/</guid>
+      <description>Otto-von-Guericke University of Magdeburg, Germany
+High performance computing, Numerical methods, Machine learning</description>
+    </item>
+    
+    <item>
+      <title>Paul Hall</title>
+      <link>https://mediation-catalog.github.io/team/paul-hall/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/paul-hall/</guid>
+      <description>Brown University, United States
+High-performance computing, ocean and climate modeling</description>
+    </item>
+    
+    <item>
+      <title>Anna Lo Piccolo</title>
+      <link>https://mediation-catalog.github.io/team/anna-lo-piccolo/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/anna-lo-piccolo/</guid>
+      <description>Brown University, United States
+Sea ice-ocean interactions, ocean mixing, ocean modeling</description>
+    </item>
+    
+    <item>
+      <title>Francesca Vittorioso</title>
+      <link>https://mediation-catalog.github.io/team/francesca-vittorioso/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/francesca-vittorioso/</guid>
+      <description>University of Bologna, Italy
+Data assimilation, Remote sensing, Sea-ice prediction</description>
+    </item>
+    
+    <item>
+      <title>Nicolas Mokus</title>
+      <link>https://mediation-catalog.github.io/team/nicolas_mokus/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/nicolas_mokus/</guid>
+      <description>Centre National de la Recherche Scientifique, France
+Sea ice modelling, wave modelling, statistical methods</description>
+    </item>
+    
+    <item>
+      <title>Aikaterini Tavri</title>
+      <link>https://mediation-catalog.github.io/team/aikaterini-tavri/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/aikaterini-tavri/</guid>
+      <description>Brown University, United States
+Remote sensing, Sea-ice, Oceanography</description>
+    </item>
+    
+    <item>
+      <title>Romain Caneill</title>
+      <link>https://mediation-catalog.github.io/team/romain_caneill/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/romain_caneill/</guid>
+      <description>Centre National de la Recherche Scientifique, France
+Physical oceanography, Numerical Modelling</description>
+    </item>
+    
+    <item>
+      <title>Melanie Lauer</title>
+      <link>https://mediation-catalog.github.io/team/melanie-lauer/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/melanie-lauer/</guid>
+      <description>University of Auckland, New Zealand
+polar climate, precipitation, feedback processes</description>
+    </item>
+    
+    <item>
+      <title>Jonathan Rheinlænder</title>
+      <link>https://mediation-catalog.github.io/team/jonathan-rheinlaender/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/jonathan-rheinlaender/</guid>
+      <description>Nansen Environmental and Remote Sensing Center, Norway
+Polar climate dynamics, sea ice physics, Paleoclimatology, Oceanography</description>
+    </item>
+    
+    <item>
+      <title>Silouane De Reboul</title>
+      <link>https://mediation-catalog.github.io/team/silouane-de-reboul/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/silouane-de-reboul/</guid>
+      <description>Sorbonne Université, France
+Numerical simulations, Machine learning</description>
+    </item>
+    
+    <item>
+      <title>Elise Ortega</title>
+      <link>https://mediation-catalog.github.io/team/elise-ortega/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/elise-ortega/</guid>
+      <description>Centre National de la Recherche Scientifique, France
+Ocean and sea-ice modeling</description>
+    </item>
+    
+    <item>
+      <title>Laetitia Drumare</title>
+      <link>https://mediation-catalog.github.io/team/laetitia-drumare/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/laetitia-drumare/</guid>
+      <description>Centre National de la Recherche Scientifique, France &amp;amp; University of Oslo, Norway
+Sea ice modeling, rheology, phase field modeling</description>
+    </item>
+    
+    <item>
+      <title>Andrea Piacentini</title>
+      <link>https://mediation-catalog.github.io/team/andrea-piacentini/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/andrea-piacentini/</guid>
+      <description>Centre Européen de Recherche et Formation Avancée en Calcul Scientifique, France
+HPC Coupling, Data assimilation</description>
+    </item>
+    
+    <item>
+      <title>Gillian Cheong</title>
+      <link>https://mediation-catalog.github.io/team/gillian_cheong/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/gillian_cheong/</guid>
+      <description>Brown University, United States
+Sea ice modelling, remote sensing, polar oceanography</description>
+    </item>
+    
+    <item>
+      <title>Fousiya T.S</title>
+      <link>https://mediation-catalog.github.io/team/fousiya_t.s/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/team/fousiya_t.s/</guid>
+      <description>Centre National de la Recherche Scientifique, France
+Ocean-sea ice modeling, Polar oceanography, Climate predictability</description>
+    </item>
+    
+    <item>
+      <title>June Newsletter</title>
+      <link>https://mediation-catalog.github.io/news/2025-06-05-june-newsletter/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2025-06-05-june-newsletter/</guid>
+      <description>96    SASIP June Newsletter  img{-ms-interpolation-mode:bicubic;} table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} .mceStandardButton, .mceStandardButton td, .mceStandardButton td a{mso-hide:all !important;} p, a, li, td, blockquote{mso-line-height-rule:exactly;} p, a, li, td, body, table, blockquote{-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%;} @media only screen and (max-width: 480px){ body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} } .mcnPreviewText{display: none !important;} .bodyCell{margin:0 auto; padding:0; width:100%;} .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{line-height:100%;} .</description>
+    </item>
+    
+    <item>
+      <title>May Newsletter</title>
+      <link>https://mediation-catalog.github.io/news/2025-05-05-may-newsletter/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2025-05-05-may-newsletter/</guid>
+      <description>96    SASIP May Newsletter  img{-ms-interpolation-mode:bicubic;} table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} .mceStandardButton, .mceStandardButton td, .mceStandardButton td a{mso-hide:all !important;} p, a, li, td, blockquote{mso-line-height-rule:exactly;} p, a, li, td, body, table, blockquote{-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%;} @media only screen and (max-width: 480px){ body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} } .mcnPreviewText{display: none !important;} .bodyCell{margin:0 auto; padding:0; width:100%;} .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{line-height:100%;} .</description>
+    </item>
+    
+    <item>
+      <title>April Webinar - Last developments in FloeDyn for granular modelling of sea ice dynamics</title>
+      <link>https://mediation-catalog.github.io/news/2025-04-24-april-webinar/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2025-04-24-april-webinar/</guid>
+      <description>April webinar presented by Stéphane Labbé, Professor at Sorbonne Université (France) working on SASIP WP2, and chaired by Pierre Rampal, SASIP Lead PI from CNRS (France).
+Stéphane Labbé presents the latest enhancements developed for FloeDyn, a simulation software dedicated to the dynamics of granular sea ice. Several new features are either in development or already available. Focus is placed on floe faulting, a crucial process in sea ice rheology simulation, and the use of artificial intelligence for computation acceleration.</description>
+    </item>
+    
+    <item>
+      <title>April Newsletter</title>
+      <link>https://mediation-catalog.github.io/news/2025-04-07-april-newsletter/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2025-04-07-april-newsletter/</guid>
+      <description>96    SASIP April Newsletter  img{-ms-interpolation-mode:bicubic;} table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} .mceStandardButton, .mceStandardButton td, .mceStandardButton td a{mso-hide:all !important;} p, a, li, td, blockquote{mso-line-height-rule:exactly;} p, a, li, td, body, table, blockquote{-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%;} @media only screen and (max-width: 480px){ body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} } .mcnPreviewText{display: none !important;} .bodyCell{margin:0 auto; padding:0; width:100%;} .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{line-height:100%;} .</description>
+    </item>
+    
+    <item>
+      <title>March Webinar - Exploring novel data assimilation techniques to improve sea ice deformation features</title>
+      <link>https://mediation-catalog.github.io/news/2025-03-28-march-webinar/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2025-03-28-march-webinar/</guid>
+      <description>March webinar presented by Yue Ying, research scientist from NERSC, (Norway) and chaired by Alberto Carassi, leader of SASIP WP4 from the University of Bologna (Italy).
+Sea ice linear kinematic features, such as leads and ridges, play an important role in daily sea ice forecasts. The neXtSIM model developed in SASIP allows faithful representation of these features in forecasts. The WP4 team have been developing a data assimilation software, called NEDAS, to assimilate additional observations of these features derived from high-resolution SAR images and improve the forecasts.</description>
+    </item>
+    
+    <item>
+      <title>March Newsletter</title>
+      <link>https://mediation-catalog.github.io/news/2025-03-04-march-newsletter/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2025-03-04-march-newsletter/</guid>
+      <description>96    SASIP March Newsletter  img{-ms-interpolation-mode:bicubic;} table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} .mceStandardButton, .mceStandardButton td, .mceStandardButton td a{mso-hide:all !important;} p, a, li, td, blockquote{mso-line-height-rule:exactly;} p, a, li, td, body, table, blockquote{-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%;} @media only screen and (max-width: 480px){ body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} } .mcnPreviewText{display: none !important;} .bodyCell{margin:0 auto; padding:0; width:100%;} .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{line-height:100%;} .</description>
+    </item>
+    
+    <item>
+      <title>February Newsletter</title>
+      <link>https://mediation-catalog.github.io/news/2025-02-13-february-newsletter/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2025-02-13-february-newsletter/</guid>
+      <description>96    SASIP February Newsletter  img{-ms-interpolation-mode:bicubic;} table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} .mceStandardButton, .mceStandardButton td, .mceStandardButton td a{mso-hide:all !important;} p, a, li, td, blockquote{mso-line-height-rule:exactly;} p, a, li, td, body, table, blockquote{-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%;} @media only screen and (max-width: 480px){ body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} } .mcnPreviewText{display: none !important;} .bodyCell{margin:0 auto; padding:0; width:100%;} .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{line-height:100%;} .</description>
+    </item>
+    
+    <item>
+      <title>Interview with Aurélien Rigotti, PhD student, CNRS</title>
+      <link>https://mediation-catalog.github.io/news/2025-02-11-interview_aurelien/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2025-02-11-interview_aurelien/</guid>
+      <description>Aurélien Rigotti is a PhD student working on sea ice rheology as part of WP2. He is supervised by Véronique Dansereau and Jérôme Weiss at the National Center for Scientific Research in Grenoble, France.
+&amp;quot; I hope my work will play its part and continue to be discussed, criticized, and explored. Véronique, Jérôme, and I are contributing to a promising path for the rheology community.&amp;quot;
+An interview with Aurélien Rigotti.</description>
+    </item>
+    
+    <item>
+      <title>January Webinar - Mapping wave-driven ocean surface mixing in the Artic using a couples wave-sea ice model framework</title>
+      <link>https://mediation-catalog.github.io/news/2025-01-22-january-webinar/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2025-01-22-january-webinar/</guid>
+      <description>January webinar presented by Aikaterini Tavri, postdoc, and chaired by Christopher Horvat, researcher, both working on WP3 at Brown University.
+The Arctic climate is changing, with observations showing a continuous decline in sea ice extent and thickness. Current large-scale models do not fully capture the interaction between upper ocean mixing and sea ice evolution, despite its critical role in controlling sea ice dynamics and interactions with the deeper ocean. Among wave-driven mixing processes, Langmuir turbulence—generated by interactions between surface waves and ocean currents—emerges as a key mechanism that enhances vertical mixing and the mixed layer depth.</description>
+    </item>
+    
+    <item>
+      <title>December Webinar - Overcoming the limitations of data assimilation in complex physical settings with machine learning</title>
+      <link>https://mediation-catalog.github.io/news/2024-12-19-december-webinar/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-12-19-december-webinar/</guid>
+      <description>December Webinar presented by Ivo Pasmans, Postdoc from the University of Reading working on WP4, and Chaired by Alberto Carassi, WP4 lead PI&amp;rsquo;s from the university of Bologna.
+Popular data assimilation (DA) methods, designed to improve estimates of the truth by incorporating information from observations, typically assume that errors are Gaussian and model are linear. However, these assumptions fail in the context of complex sea ice models. In this presentation, we will outline the fundamentals of DA and demonstrate how machine learning techniques can help address its limitations.</description>
+    </item>
+    
+    <item>
+      <title>December Newsletter</title>
+      <link>https://mediation-catalog.github.io/news/2024-12-03-december-newsletter/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-12-03-december-newsletter/</guid>
+      <description>96    SASIP December Newsletter  img{-ms-interpolation-mode:bicubic;} table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} .mceStandardButton, .mceStandardButton td, .mceStandardButton td a{mso-hide:all !important;} p, a, li, td, blockquote{mso-line-height-rule:exactly;} p, a, li, td, body, table, blockquote{-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%;} @media only screen and (max-width: 480px){ body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} } .mcnPreviewText{display: none !important;} .bodyCell{margin:0 auto; padding:0; width:100%;} .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{line-height:100%;} .</description>
+    </item>
+    
+    <item>
+      <title>Scaling Simulations of Local Wind-Waves Amid Sea Ice Floes</title>
+      <link>https://mediation-catalog.github.io/news/2024-11-28-article-sam/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-11-28-article-sam/</guid>
+      <description>Scaling Simulations of Local Wind-Waves Amid Sea Ice Floes by Samuel Brenner and Christopher Horvat, published in JGR Oceans.
+Wave-ice interactions are crucial for modeling air-sea exchanges in polar regions. While sea ice’s impact on open-water swell is well understood, its effect on locally generated wind-waves in partial ice cover is uncertain. In this new paper published in JGR Oceans, Samuel Brenner and Christopher Horvat use the SWAN model to show that wave growth depends on both sea ice concentration (SIC) and floe size distribution (FSD).</description>
+    </item>
+    
+    <item>
+      <title>November Webinar - From alpha to beta ocean: Exploring the role of surface buoyancy fluxes and seawater thermal expansion in setting the upper ocean stratification</title>
+      <link>https://mediation-catalog.github.io/news/2024-11-26-november-webinar/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-11-26-november-webinar/</guid>
+      <description>The ocean plays a central role in the climate system by absorbing excess anthropogenic heat and carbon dioxide. Due to the large ocean stratification, vertical exchanges between the ocean interior and the surface are limited. The stratification is controlled by temperature in subtropical regions (alpha oceans) and salinity in polar regions (beta oceans). This thesis investigates the factors influencing the upper ocean stratification. The unique way the thermal expansion coefficient varies with temperature reduces buoyancy fluxes over cold waters.</description>
+    </item>
+    
+    <item>
+      <title>November Newsletter</title>
+      <link>https://mediation-catalog.github.io/news/2024-11-07-november-newsletter/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-11-07-november-newsletter/</guid>
+      <description>96    SASIP November Newsletter  img{-ms-interpolation-mode:bicubic;} table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} .mceStandardButton, .mceStandardButton td, .mceStandardButton td a{mso-hide:all !important;} p, a, li, td, blockquote{mso-line-height-rule:exactly;} p, a, li, td, body, table, blockquote{-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%;} @media only screen and (max-width: 480px){ body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} } .mcnPreviewText{display: none !important;} .bodyCell{margin:0 auto; padding:0; width:100%;} .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{line-height:100%;} .</description>
+    </item>
+    
+    <item>
+      <title>Interview with Charlotte Durand, PhD student, ENPC</title>
+      <link>https://mediation-catalog.github.io/news/2024-10-21-interview-charlotte/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-10-21-interview-charlotte/</guid>
+      <description>Charlotte Durand is a PhD student working on data assimilation and deep learning as part of WP4. She is supervised by Marc Bocquet at the Atmospheric Environment Teaching and Research Center (CEREA) and works closely with Alberto Carassi, WP4 PI leader. She will soon receive her PhD and join the Institute of Environmental Geosciences to continue her work on SASIP alongside Pierre Rampal and the other members of the SASIP team based in Grenoble, France.</description>
+    </item>
+    
+    <item>
+      <title>October Newsletter</title>
+      <link>https://mediation-catalog.github.io/news/2024-10-10-newsletter/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-10-10-newsletter/</guid>
+      <description>Loading page... | Mailchimp  function OptanonWrapper() { if (typeof window.mailchimp_cookie_preferences !== &#39;undefined&#39;) { window.mailchimp_cookie_preferences.syncPreferences() } window.dataLayer.push({ &#34;event&#34;: &#34;OneTrustGroupsUpdated&#34; }); }  viewportWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth; viewportHeight = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight; window.gtmData = { hasUser: true, userId: 203130434, loginId: &#34;39257707028c2a940b6cafc76ba343fe&#34;, cohort: &#34;existing&#34;, UA: &#34;UA-329148-81&#34;, version: &#34;1&#34;, gaDimensions: [], deferToGTM: false, clickmapVersion: &#34;2&#34;, previewTextEnabled: false, suggestionsPanelEnabled: true, listSize: 101, plan: &#34;Free plan&#34;, commercePlan: &#34;Websites &amp; Commerce Free plan&#34;</description>
+    </item>
+    
+    <item>
+      <title>Implementation of a brittle sea ice rheology in an Eulerian, finite-difference, C-grid modeling framework: impact on the simulated deformation of sea ice in the Arctic</title>
+      <link>https://mediation-catalog.github.io/news/2024-08-15-paper-laurent/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-08-15-paper-laurent/</guid>
+      <description>Implementation of a brittle sea ice rheology in an Eulerian, finite-difference, C-grid modeling framework: impact on the simulated deformation of sea ice in the Arctic by Laurent Brodeau, Pierre Rampal, Véronique Dansereau and Einar Olason, published in the Geoscientific Model Development.
+https://doi.org/10.5194/gmd-17-6051-2024
+ Fig.7 (from Brodeau et al.):Maps of the sea ice total deformation rate at the 10 km spatial and 3 d temporal scale for the period centered about 24 December 1996, computed based on (a) RGPS Lagrangian data and (b, c) their synthetic counterparts constructed using the simulated sea ice velocities of SI3-BBM and SI3-default, respectively.</description>
+    </item>
+    
+    <item>
+      <title>July Newsletter</title>
+      <link>https://mediation-catalog.github.io/news/2024-07-01-july-newsletter/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-07-01-july-newsletter/</guid>
+      <description>96    SASIP July Newsletter  img{-ms-interpolation-mode:bicubic;} table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} .mceStandardButton, .mceStandardButton td, .mceStandardButton td a{mso-hide:all !important;} p, a, li, td, blockquote{mso-line-height-rule:exactly;} p, a, li, td, body, table, blockquote{-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%;} @media only screen and (max-width: 480px){ body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} } .mcnPreviewText{display: none !important;} .bodyCell{margin:0 auto; padding:0; width:100%;} .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{line-height:100%;} .</description>
+    </item>
+    
+    <item>
+      <title>June Webinar - The nextSIM-DG sea ice model: rewriting, reusing and refactoring</title>
+      <link>https://mediation-catalog.github.io/news/2024-06-20-webinar_spain/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-06-20-webinar_spain/</guid>
+      <description>Tim Spain is a software developer from the NERSC who works on SASIP WP1
+The nextSIM-DG sea ice model is at the core of the modelling in SASIP. It is derived from the existing Lagrangian nextSIM model (Rampal et al., 2016) and has been designed to be more flexible for both end users and coupling to other models. This webinar will cover what was necessary to go from the previous to the future version of model.</description>
+    </item>
+    
+    <item>
+      <title>Videos of the month</title>
+      <link>https://mediation-catalog.github.io/news/2024-06-18-simulation-brodeau/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-06-18-simulation-brodeau/</guid>
+      <description>Ocean/sea-ice coupled experiment performed with NEMO 4.2.2 at 36th of a degree, with SI3 (sea-ice component) using the newly implemented BBM brittle rheology of Òlason et al., 2022
+Reference: Brodeau, Rampal, Òlason &amp;amp; Dansereau, 2024: &amp;ldquo;Implementation of a brittle sea-ice rheology in an Eulerian, finite-difference, C-grid modeling framework: Impact on the simulated deformation of sea-ice in the Arctic&amp;rdquo;, Geoscientific Model Development.
+Computation performed on the AdAstra HPC resource at CINES, Montpellier, France.</description>
+    </item>
+    
+    <item>
+      <title>2024 SASIP Annual Meeting</title>
+      <link>https://mediation-catalog.github.io/news/2024-06-13_annual-meeting/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-06-13_annual-meeting/</guid>
+      <description>The 2024 SASIP annual meeting took place in Bologna, Italy, from June 4 to 6, 2024. Three days of inspiring talks and posters as well as productive working groups.
+It was nice to see you all in person, thanks for joining!
+This event gathered 60 participants of 7 countries (Italy, France, US, New Zealand, UK, Norway, Germany) from all the institutions of the SASIP consortium.
+We will soon post here the recordings of the science talks and discussions.</description>
+    </item>
+    
+    <item>
+      <title>June Newsletter</title>
+      <link>https://mediation-catalog.github.io/news/june-newsletter/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/june-newsletter/</guid>
+      <description>96    SASIP June Newsletter  img{-ms-interpolation-mode:bicubic;} table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} .mceStandardButton, .mceStandardButton td, .mceStandardButton td a{mso-hide:all !important;} p, a, li, td, blockquote{mso-line-height-rule:exactly;} p, a, li, td, body, table, blockquote{-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%;} @media only screen and (max-width: 480px){ body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} } .mcnPreviewText{display: none !important;} .bodyCell{margin:0 auto; padding:0; width:100%;} .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{line-height:100%;} .</description>
+    </item>
+    
+    <item>
+      <title>May Webinar - Towards a GPU-Parallelization of the neXtSIM-DG Dynamical Core</title>
+      <link>https://mediation-catalog.github.io/news/2024-05-24_may_webinar/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-05-24_may_webinar/</guid>
+      <description>Robert Jendersie, PhD student from the University of Magdeburg, presented his work as part of the SASIP May webinar.
+Check the recording of the meeting:
+  </description>
+    </item>
+    
+    <item>
+      <title>May Newsletter</title>
+      <link>https://mediation-catalog.github.io/news/2024-05-06_may_newsletter/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-05-06_may_newsletter/</guid>
+      <description>96    SASIP May Newsletter  img{-ms-interpolation-mode:bicubic;} table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} .mceStandardButton, .mceStandardButton td, .mceStandardButton td a{mso-hide:all !important;} p, a, li, td, blockquote{mso-line-height-rule:exactly;} p, a, li, td, body, table, blockquote{-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%;} @media only screen and (max-width: 480px){ body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} } .mcnPreviewText{display: none !important;} .bodyCell{margin:0 auto; padding:0; width:100%;} .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{line-height:100%;} .</description>
+    </item>
+    
+    <item>
+      <title>April Webinar - Surrogate modelling of sea-ice models with generative deep learning</title>
+      <link>https://mediation-catalog.github.io/news/2024-04-26_april_webinar/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-04-26_april_webinar/</guid>
+      <description>Tobias Finn, Postdoc at École des Ponts ParisTech and working on WP4 presents his latest research on surrogate modelling of sea-ice models with generative deep learning.
+Check the recording of the meeting:
+  </description>
+    </item>
+    
+    <item>
+      <title>Generative diffusion for regional surrogate models from sea-ice simulations</title>
+      <link>https://mediation-catalog.github.io/news/2024-04-23-preprint-finn/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-04-23-preprint-finn/</guid>
+      <description>Generative diffusion for regional surrogate models from sea-ice simulations, new preprint submitted in Authorea by Tobias Sebastian Finn, Charlotte Durand, Alban Farchi, Marc Bocquet, Pierre Rampal, Alberto Carrassi
+Tobias Finn et al. present their exciting and novel approach to learn sea-ice models from data based on generative deep learning. They show that it can outperform more classical approaches, while generating physical consistent forecasts. The completely data-driven model seems to generalize to benchmark-like cases, where the predicted fields resemble those predicted by geophysical models.</description>
+    </item>
+    
+    <item>
+      <title>Do AI models produce better weather forecasts than physics-based models? A quantitative evaluation case study of Storm Ciarán</title>
+      <link>https://mediation-catalog.github.io/news/2024-04-22_charlton-perez_driscoll_2024/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-04-22_charlton-perez_driscoll_2024/</guid>
+      <description>Do AI models produce better weather forecasts than physics-based models? A quantitative evaluation case study of Storm Ciarán published in npj Climate and Atmospheric Science.
+Andrew J. Charlton-Perez and co-authors, including Simon Driscoll, investigate the ability of many of the world&amp;rsquo;s leading NWP and AI weather forecasting models in their ability to simulate Storm Ciaran. AI models are essentially indistinguishable from NWP models in the storm track and MSLP fields analysed, and many important dynamical features are well captured by the AI models.</description>
+    </item>
+    
+    <item>
+      <title>Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic</title>
+      <link>https://mediation-catalog.github.io/news/durand-2024/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/durand-2024/</guid>
+      <description>Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic by Charlotte Durand, Tobias Sebastian Finn, Alban Farchi, Marc Bocquet, Guillaume Boutin, and Einar Ólason published in the Cryosphere.
+In this article, Charlotte Durand et al. focus on predicting Arctic-wide sea-ice thickness using surrogate modeling with deep learning. The model has a predictive power of 12 h up to 6 months. For this forecast horizon, persistence and daily climatology are systematically outperformed, a result of learned thermodynamics and advection.</description>
+    </item>
+    
+    <item>
+      <title>April Newsletter: EGU special edition!</title>
+      <link>https://mediation-catalog.github.io/news/2024-04-08_april-newsletter/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-04-08_april-newsletter/</guid>
+      <description>96    SASIP April Newsletter  img{-ms-interpolation-mode:bicubic;} table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} .mceStandardButton, .mceStandardButton td, .mceStandardButton td a{mso-hide:all !important;} p, a, li, td, blockquote{mso-line-height-rule:exactly;} p, a, li, td, body, table, blockquote{-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%;} @media only screen and (max-width: 480px){ body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} } .mcnPreviewText{display: none !important;} .bodyCell{margin:0 auto; padding:0; width:100%;} .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{line-height:100%;} .</description>
+    </item>
+    
+    <item>
+      <title>Energetics and Transfer of Submesoscale Brine Driven Eddies at a Sea Ice Edge</title>
+      <link>https://mediation-catalog.github.io/news/lo-piccolo/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/lo-piccolo/</guid>
+      <description>Energetics and Transfer of Submesoscale Brine Driven Eddies at a Sea Ice Edge by Anna Lo Piccolo, Christopher Horvat and Baylor Fox-Kemper published in the Journal of Physiscal Oceanography.
+Submesoscale eddies grow from baroclinic instabilities along a sea-ice edge under freezing conditions, via an inverse energy cascade. They cause a faster overturning of the front and a lateral expansion of the frontal region, which presents some common behavior under different atmospheric temperatures.</description>
+    </item>
+    
+    <item>
+      <title>March Webinar - Particle-Based Algorithms for Stochastic Optimal Control</title>
+      <link>https://mediation-catalog.github.io/news/march_webinar/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/march_webinar/</guid>
+      <description>Sebastian Reich, Professor of Numerical analysis and expert in Data Assimilation from the University of Potsdam presented his research on Particle-Based Algorithms for Stochastic Optimal Control.
+Check the recording of the meeting:
+  </description>
+    </item>
+    
+    <item>
+      <title>Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks</title>
+      <link>https://mediation-catalog.github.io/news/2024-03-16_driscoll_2024/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-03-16_driscoll_2024/</guid>
+      <description>Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks by Simon Driscoll, Alberto Carrassi, Julien Brajard, Laurent Bertino, Marc Bocquet, Einar Örn Ólason, published in the Journal of Computational Science.
+Simon Driscoll et al. show through a global sensitivity analysis and analysis of perturbed parameter ensembles that a state-of-the-art sea ice model, Icepack, demonstrates a substantial sensitivity to its level-ice melt pond parametrisation. To reduce this uncertainty, they investigated the possibility of data driven approaches to learn and replace parametrisations.</description>
+    </item>
+    
+    <item>
+      <title>March Newsletter</title>
+      <link>https://mediation-catalog.github.io/news/march_newsletter/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/march_newsletter/</guid>
+      <description>96    SASIP March Newsletter  img{-ms-interpolation-mode:bicubic;} table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} .mceStandardButton, .mceStandardButton td, .mceStandardButton td a{mso-hide:all !important;} p, a, li, td, blockquote{mso-line-height-rule:exactly;} p, a, li, td, body, table, blockquote{-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%;} @media only screen and (max-width: 480px){ body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} } .mcnPreviewText{display: none !important;} .bodyCell{margin:0 auto; padding:0; width:100%;} .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{line-height:100%;} .</description>
+    </item>
+    
+    <item>
+      <title>Interview with Romain Caneill, Postdoc, CNRS</title>
+      <link>https://mediation-catalog.github.io/news/interview_romain_caneill/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/interview_romain_caneill/</guid>
+      <description>Romain Caneill, postdoc at the French National Center for Scientific Research (CNRS), recently joined SASIP to work on sea-ice rheology (WP2) and climate implications WP5. He accepted to share his scientific history, vision of science, motivations and hopes.
+&amp;ldquo;I hope that at the end of the SASIP project, the ocean-atmosphere community will acknowledge the important role of sea ice and the fact that its dynamics need to be well represented in climate models.</description>
+    </item>
+    
+    <item>
+      <title>FloeDyn Code is open!</title>
+      <link>https://mediation-catalog.github.io/news/floedyn-code/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/floedyn-code/</guid>
+      <description>This model owes its originality to the fact that it allows simulating ice floes of shapes derived from observations and collisions between these floes in a way that avoids unrealistic interpenetrations and the associated energy dissipation, which makes it a valuable tool for thermodynamic and eventually dynamic parameterization developments within the WP2 and WP3 of SASIP.
+The code and documentation can be found here Trimestrial users and developersmeetings will be held from now on: do not hesitate to send an email to stephane.</description>
+    </item>
+    
+    <item>
+      <title>Towards a GPU-Parallelization of the neXtSIM-DG Dynamical Core</title>
+      <link>https://mediation-catalog.github.io/news/jendersie_preprint_2024/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/jendersie_preprint_2024/</guid>
+      <description>Towards a GPU-Parallelization of the neXtSIM-DG Dynamical Core by Jendersie et al.
+In recent years, a number of frameworks have become available that promise to simplify general purpose GPU programming. In this new preprint, Robert Jendersie and colleagues compare multiple such frameworks, including CUDA, SYCL, Kokkos and PyTorch, for the parallelization of \nextsim, a finite-element based dynamical core for sea ice. They evaluate the different approaches according to their usability and performance.</description>
+    </item>
+    
+    <item>
+      <title>February Webinar - The Contribution of the assimilation of MTG/IRS radiances for the characterisation of the atmospheric chemical composition over Europe</title>
+      <link>https://mediation-catalog.github.io/news/webinar_february_2024/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/webinar_february_2024/</guid>
+      <description>On February 21st, Francesca Vittorioso presented her latest research on the Contribution of the assimilation of MTG/IRS radiances for the characterisation of the atmospheric chemical composition over Europe.
+See her interview here
+Check the recording of the meeting :
+  </description>
+    </item>
+    
+    <item>
+      <title>Investigating ecosystem connections in the shelf sea environment using complex networks</title>
+      <link>https://mediation-catalog.github.io/news/2024-02-08_higgs_carassi_2024/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-02-08_higgs_carassi_2024/</guid>
+      <description>Investigating ecosystem connections in the shelf sea environment using complex networks by Ieuan Higgs, Jozef Skákala, Ross Bannister, Alberto Carrassi, and Stefano Ciavatta, published in Biogeosciences.
+Use of complex network to disentagle the bio-geochemistry relation in the ocean.
+https://doi.org/10.5194/bg-21-731-2024
+  Fig.1 (from Higgs et al.):The Atlantic Margin Model (AMM7) domain used in this study. The figure also shows the ocean bathymetry of the North West European Shelf.</description>
+    </item>
+    
+    <item>
+      <title>February Newsletter</title>
+      <link>https://mediation-catalog.github.io/news/2024-02-06_february_newsletter/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-02-06_february_newsletter/</guid>
+      <description>96    SASIP February Newsletter  img{-ms-interpolation-mode:bicubic;} table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} .mceStandardButton, .mceStandardButton td, .mceStandardButton td a{mso-hide:all !important;} p, a, li, td, blockquote{mso-line-height-rule:exactly;} p, a, li, td, body, table, blockquote{-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%;} @media only screen and (max-width: 480px){ body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} } .mcnPreviewText{display: none !important;} .bodyCell{margin:0 auto; padding:0; width:100%;} .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{line-height:100%;} .</description>
+    </item>
+    
+    <item>
+      <title>Interview with Francesca Vittorioso, Postdoc, University of Bologna</title>
+      <link>https://mediation-catalog.github.io/news/interview_francesca/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/interview_francesca/</guid>
+      <description>Francesca Vittorioso, postdoc at the University of Bologna, Italy, recently joined SASIP to work on Data Assimilation. On February 21st, she will give a webinar (register here) presenting her latest research on the Contribution of the assimilation of MTG/IRS radiances for the characterisation of the atmospheric chemical composition over Europe. On this occasion, we asked her to share some of her personal and scientific history.
+&amp;ldquo;SASIP will allow a better understanding of the warming of the polar regions.</description>
+    </item>
+    
+    <item>
+      <title>A method for constructing directional surface wave spectra from ICESat-2 altimetry</title>
+      <link>https://mediation-catalog.github.io/news/paper-momme_chris_2024/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/paper-momme_chris_2024/</guid>
+      <description>Momme C.Hell and Christopher Horvat have published a new paper paper related to their work in SASIP-WP3:
+A method for constructing directional surface wave spectra from ICESat-2 altimetry, 2024, The Cryosphere.
+Surface waves impact Sea Ice Fracture in the MIZ, but wave attenuation in sea ice is one of the least constrained processes in current sea ice models. We hear how a method that provide 2D wave spectra in sea ice along ICESat-2 tracks.</description>
+    </item>
+    
+    <item>
+      <title>January Newsletter</title>
+      <link>https://mediation-catalog.github.io/news/january_newsletter/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/january_newsletter/</guid>
+      <description>96    SASIP January Newsletter  img{-ms-interpolation-mode:bicubic;} table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} .mceStandardButton, .mceStandardButton td, .mceStandardButton td a{mso-hide:all !important;} p, a, li, td, blockquote{mso-line-height-rule:exactly;} p, a, li, td, body, table, blockquote{-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%;} @media only screen and (max-width: 480px){ body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} } .mcnPreviewText{display: none !important;} .bodyCell{margin:0 auto; padding:0; width:100%;} .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{line-height:100%;} .</description>
+    </item>
+    
+    <item>
+      <title>Implementation of a brittle sea-ice rheology in an Eulerian, finite-difference, C-grid modeling framework: Impact on the simulated deformation of sea-ice in the Arctic</title>
+      <link>https://mediation-catalog.github.io/news/preprint-brodeau-2024/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/preprint-brodeau-2024/</guid>
+      <description>Implementation of a brittle sea-ice rheology in an Eulerian, finite-difference, C-grid modeling framework: Impact on the simulated deformation of sea-ice in the Arctic by Laurent Brodeau et al., published in Geoscientific Model Development.
+In this new preprint, Laurent Brodeau, Pierre Rampal et al. describe how they achieved the numerical implementation of the Brittle Bingham-Maxwell sea-ice rheology (BBM) into SI3, the sea-ice component of NEMO
+https://doi.org/10.5194/gmd-2023-231
+  Fig.7 (from Brodeau and Rampal):PDFs of the (a) shear, (b) divergence, (c) convergence, and (d) total deformation rates at the 10 km spatial and 3-day temporal scale, for RGPS data and their synthetic counterparts constructed using the simulated sea-ice velocities of SI3-BBM an SI3-aEVP.</description>
+    </item>
+    
+    <item>
+      <title>Video of the month</title>
+      <link>https://mediation-catalog.github.io/news/2024-01-10_january-video/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2024-01-10_january-video/</guid>
+      <description>This month we publish a video provided by S. Brenner @ Brown University, USA.
+In a new paper in Geophysical Research Letters, S. Brenner and members of the SASIP team investigate floe-scale effects on ice-ocean boundary layer turbulence. These numerical simulations of the marginal ice zone, produced with the &amp;ldquo;FloeDyn&amp;rdquo; sea ice discrete element model, show sea ice motion together with the underying ocean current field (white/blue colourmap and vector arrows shows), followed by the associated turbulence generation under the ice (cyan/red colourmap).</description>
+    </item>
+    
+    <item>
+      <title>Video of the month</title>
+      <link>https://mediation-catalog.github.io/news/2023-10-11_october-video/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2023-10-11_october-video/</guid>
+      <description>This month we publish a video from work in progress in SASIP-WP4, provided by C. Durand, T. Finn, A. Farchi, M. Bocquet, E. Òlason @ CEREA, École des Ponts.
+   Fig.: Movie produced by C. Durand, T. Finn, A. Farchi, M. Bocquet, E. Òlason @ CEREA, École des Ponts This is a work in progress in WP4. By using simulation outputs from neXtSIM and some ERA5 reanalysis atmospheric forcings, we trained a neural network to predict the sea-ice thickness up to 12 hours.</description>
+    </item>
+    
+    <item>
+      <title>2023 VESRI Midterm Review Meeting</title>
+      <link>https://mediation-catalog.github.io/news/2023-10-03_versi-midterm-review-meeting/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2023-10-03_versi-midterm-review-meeting/</guid>
+      <description>The 2023 VESRI midterm review meeting took place in Grenoble (02-03 October 2023). After 2 years since the beginning of SASIP, it was time to gather with SASIP and Schmidt Futures team members for the midterm review meeting !
+We were extremely pleased to welcome about 35 participants of 7 countries (France, Germany, UK, Italy, Norway, US, New Zealand) from the institutions of the SASIP consortium, as well as reviewers and Schmidt Futures team members.</description>
+    </item>
+    
+    <item>
+      <title>2023 Annual SASIP meeting</title>
+      <link>https://mediation-catalog.github.io/news/2023-06-28_bergen_annual_meeting/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2023-06-28_bergen_annual_meeting/</guid>
+      <description>The 2023 SASIP annual meeting took place in Bergen (27-30 June 2023).
+Thank you to all the participants for these 4 days of inspiring science talks and discussions about sea ice!
+This year we had about 60 participants of 7 countries (France, US, New Zeland, UK, Norway, Germany, Italy) from all the institutions of the SASIP consortium.
+Nice to see each other in person!
+  The program of these 4 days can be found here: https://cloud.</description>
+    </item>
+    
+    <item>
+      <title>New paper accepted for publication: Cheng et al (2023)</title>
+      <link>https://mediation-catalog.github.io/news/2023-03-22_paper_cheng2023b/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2023-03-22_paper_cheng2023b/</guid>
+      <description>Sibo Cheng et al. have published a new paper paper related to their work in SASIP-WP4:
+Machine learning with data assimilation and uncertainty quantification for dynamical systems: a review, accepted for publication in IEEE/CAA Journal of Automatica Sinica.
+Sibo Cheng, Cesar Quilodran-Casas, Said Ouala, Alban Farchi, Che Liu, Pierre Tandeo, Ronan Fablet, Didier Lucor, Bertrand Iooss, Julien Brajard, Dunhui Xiao, Tijana Janjic, Weiping Ding, Yike Guo, Alberto Carrassi, Marc Bocquet, Rossella Arcucci</description>
+    </item>
+    
+    <item>
+      <title>New paper under review: Richter et al (2023)</title>
+      <link>https://mediation-catalog.github.io/news/2023-03-09_paper_richter2023/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2023-03-09_paper_richter2023/</guid>
+      <description>Thomas Richter et al. have submitted a new paper related to their work in SASIP:
+The neXtSIM-DG dynamical core: A Framework for Higher-order Finite Element Sea Ice Modeling., under review in EGUsphere.
+Thomas Richter, Véronique Dansereau, Christian Lessig, and Piotr Minakowski.
+https://doi.org/10.5194/egusphere-2023-391.
+  Fig.11 (from Richter et al 2023): Visualization of the ice concentration on meshes with a spacing of h = 8 km for dG(0) (finite volumes), dG(1) and dG(2).</description>
+    </item>
+    
+    <item>
+      <title>SASIP Webinar #9 - Sukun Cheng - March 22nd 11am</title>
+      <link>https://mediation-catalog.github.io/news/webinar9/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/webinar9/</guid>
+      <description>Our SASIP Webinar #9 with Sukun Cheng on the &amp;lsquo;Arctic sea ice data assimilation combining ensemble Kalman filter with a novel Lagrangian sea ice model for the winter 2019-2020&amp;rsquo; took place on March the 22nd at 11am
+  Abstract :
+Advanced data assimilation (DA) methods, widely used in geophysical and climate studies to merge observations with numerical models, can improve the state estimates and consequent forecasts. We interface the deterministic Ensemble Kalman filter (DEnKF) to the Lagrangian sea ice model, neXtSIM.</description>
+    </item>
+    
+    <item>
+      <title>New paper under review: Finn et al (2023)</title>
+      <link>https://mediation-catalog.github.io/news/2023-02-07_paper_finn2023/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2023-02-07_paper_finn2023/</guid>
+      <description>Tobias Finn et al. have published a new paper paper related to their work in SASIP-WP4:
+Deep learning of subgrid-scale parametrisations for short-term forecasting of sea-ice dynamics with a Maxwell-Elasto-Brittle rheology., EGUsphere.
+Tobias Sebastian Finn, Charlotte Durand, Alban Farchi, Marc Bocquet, Yumeng Chen, Alberto Carrassi and Véronique Dansereau.
+https://doi.org/10.5194/egusphere-2022-1342.
+  Fig.3 (from Finn et al 2023): In our deep learning approach (a), the input fields are projected by a linear projection operator P from their triangular space into a Cartesian space that has a higher resolution, where the U-Net extracts features.</description>
+    </item>
+    
+    <item>
+      <title>New paper: Ayers et al (2023)</title>
+      <link>https://mediation-catalog.github.io/news/2023-02-08_paper_ayers2023/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2023-02-08_paper_ayers2023/</guid>
+      <description>Daniel Ayers et al. have published a new paper paper related to their work in SASIP-WP4:
+Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents, under review in QJRMS.
+Daniel Ayers, Jack Lau, Javier Amezcua, Alberto Carrassi, Varun Ojha.
+https://arxiv.org/abs/2202.04944.
+  Fig.2 (from Ayers et al 2023): A long-time trajectory of the Lorentz63 system coloured by local Lyapunov exponents (LLE) values (top row) shows how LLE values tend to be arranged in the system’s attractor.</description>
+    </item>
+    
+    <item>
+      <title>New paper : Cheng et al (2023)</title>
+      <link>https://mediation-catalog.github.io/news/2023-02-06_paper_cheng2023/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2023-02-06_paper_cheng2023/</guid>
+      <description>Sukun Cheng et al. have published a new paper paper related to their work in SASIP-WP4:
+Novel Arctic sea ice data assimilation combining ensemble Kalman filter with a Lagrangian sea ice model, EGUsphere.
+Cheng, S., Chen, Y., Aydoğdu, A., Bertino, L., Carrassi, A., Rampal, P., and Jones, C. K. R. T.
+https://doi.org/10.5194/egusphere-2022-627.
+  Fig.1 (from Cheng et al 2023): Flow chart of the ensemble-DA platform. DEnKF: analysis step; neXtSIM: model forecast step; OSI-SAF SIC/CS2SMOS SIT observation: assimilated observations; TOPAZ forecasts and ECMWF forecasts: upstream forcing data for neXtSIM; Field perturbations: see Section 4.</description>
+    </item>
+    
+    <item>
+      <title>New paper: Ólason et al (2022)</title>
+      <link>https://mediation-catalog.github.io/news/2023-02-05_paper_olason2022/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2023-02-05_paper_olason2022/</guid>
+      <description>Einar Ólason et al. have published a new paper paper related to their work in SASIP-WP1:
+A New Brittle Rheology and Numerical Framework for Large-Scale Sea-Ice Models., 2022, Journal of Advances in Modeling Earth Systems, 14.
+Ólason, Einar, Guillaume Boutin, Anton Korosov, Pierre Rampal, Timothy Williams, Madlen Kimmritz, Véronique Dansereau, and Abdoulaye Samaké.
+https://doi.org/10.1029/2021MS002685.
+  Fig.4 (from Olason et al 2022): Maps of sea ice shear (day−1) for 2 February 2007 as observed by radarsat geophysical processing system and simulated by neXtSIMv2 using the brittle Bingham-Maxwell and mEVP rheologies.</description>
+    </item>
+    
+    <item>
+      <title>New paper: Boutin et al (2022)</title>
+      <link>https://mediation-catalog.github.io/news/2023-02-04_paper_boutin2022/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2023-02-04_paper_boutin2022/</guid>
+      <description>Guillaume Boutin et al. have published a new paper paper related to their work in SASIP-WP3:
+Modelling the Arctic Wave-Affected Marginal Ice Zone: A Comparison with ICESat-2 Observations., 2022, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 380 (September).
+Boutin, G., T. Williams, C. Horvat, and L. Brodeau.
+https://doi.org/10.1098/rsta.2021.0262.
+  Fig.2 (from Boutin et al 2022): (a–c) Comparison of the wMIZ between the model (using REF and the maximum 𝐻𝑠 for each month) and IS-2, for the months of February (a), August (b) and November (c) 2019.</description>
+    </item>
+    
+    <item>
+      <title>Video of the month</title>
+      <link>https://mediation-catalog.github.io/news/2023-01-05_january-video/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2023-01-05_january-video/</guid>
+      <description>This month we publish a video from work in progress in SASIP-WP3, provided by by S. Brenner, C. Horvat, A. Lo Piccolo, P. Haul @ Brown University, USA.
+   Fig.: Movie produced by S. Brenner, C. Horvat, A. Lo Piccolo, P. Haul @ Brown University, USA. Work in progress in SASIP-WP3. These computer simulations of sea ice floes in the marginal ice zone show how they dynamically move and collide in response to the underlying ocean currents (shown with colour and arrows).</description>
+    </item>
+    
+    <item>
+      <title>Video of the month</title>
+      <link>https://mediation-catalog.github.io/news/2022-12-31_december-video/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2022-12-31_december-video/</guid>
+      <description>This month we publish a video from work in progress in SASIP-WP2, provided by Jean-Pierre Auclair @ISTERRE, Grenoble.
+   Fig.: Movie produced by JP. Auclair @ ISTERRE, Grenoble. It illustrates work in progress in SASIP-WP2 with a 1D simulations of spectral waves entering and fracturing a continuous sea ice cover of 70cm. Fractures occur when the elastic energy of flexion from the ice deformation exceeds the energy required to break the material.</description>
+    </item>
+    
+    <item>
+      <title>SASIP Webinar #8 - Julien Brajard - November 2nd 2pm</title>
+      <link>https://mediation-catalog.github.io/news/webinar8/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/webinar8/</guid>
+      <description>Our SASIP Webinar #8 with Julien Brajard on &amp;lsquo;Super resolution of sea ice thickness&amp;rsquo; took place on November the 2nd at 2pm CEST.
+  </description>
+    </item>
+    
+    <item>
+      <title>Video of the month</title>
+      <link>https://mediation-catalog.github.io/news/2022-11-01_november-video/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2022-11-01_november-video/</guid>
+      <description>This month we publish two videos made for illustrative purposes in SASIP-WP0, provided by Laurent Brodeau (CNRS &amp;amp; Datlas), and Stephanie Leroux (Datlas), Grenoble.
+   Fig: The above movie shows the evolution every 6h of sea-ice concentration, then thickness, then damage in a numerical simulation of the Arctic region featuring the neXtSIM sea-ice model coupled to NEMO/OPA ocean model via the OASIS coupler. Credits: Data from the WIZARD project @ CMEMS_EU.</description>
+    </item>
+    
+    <item>
+      <title>ICCS Summer School 2022</title>
+      <link>https://mediation-catalog.github.io/news/2022-08-04_iccs_sm2022/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2022-08-04_iccs_sm2022/</guid>
+      <description>The Institute of Computing for Climate Science Summer School
+will take place in Cambridge, UK, September 19th-23th 2022.
+The summer school is free to attend and open to Schmidt Futures VESRI projects and CliMA, and any ‘friends and family’, i.e., other collaborators / students known to you who would benefit. Please find more info here: https://cambridge-iccs.github.io/summerschool.html</description>
+    </item>
+    
+    <item>
+      <title>2022 Annual SASIP meeting</title>
+      <link>https://mediation-catalog.github.io/news/2022-07-28_annual_meeting/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/2022-07-28_annual_meeting/</guid>
+      <description>The 2022 SASIP annual meeting took place in Grenoble (20-23 June 2022).
+Thank you to all the participants for these 3 days of inspiring science talks and discussions about sea ice modeling!
+This event was the first in-person meeting of the project, and it has gathered 55 participants of 7 countries (France, US, New Zeland, UK, Norway, Germany, Canada) from the 13 institutions of the SASIP consortium.
+We will soon post here the recordings of the science talks and discussions.</description>
+    </item>
+    
+    <item>
+      <title>Save the date!</title>
+      <link>https://mediation-catalog.github.io/news/meeting/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/meeting/</guid>
+      <description>The SASIP comittee is pleased to welcome all participants for the first in-person meeting next week in Grenoble.
+Click here for more informations on the agenda and here for practical details.</description>
+    </item>
+    
+    <item>
+      <title>SASIP Webinar #7 - Ivo Passmans - February 23rd 3pm</title>
+      <link>https://mediation-catalog.github.io/news/webinar7/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/webinar7/</guid>
+      <description>Our SASIP Webinar #7 with Ivo Passmans on &amp;lsquo;From ensemble 4DVar to Galerkin data assimilation&amp;rsquo; took place on Wednesday 23 February at 3pm CEST.
+Check the recording of the meeting :
+  </description>
+    </item>
+    
+    <item>
+      <title>SASIP Webinar #6 - Ludovic Moreau - January 27th 3pm</title>
+      <link>https://mediation-catalog.github.io/news/webinar6/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/webinar6/</guid>
+      <description>Our SASIP Webinar #6 with Ludovic Moreau on &amp;lsquo;Monitoring sea ice thickness and elastic properties with seismic noise and deep learning&amp;rsquo; took place on Thursday 22 January at 3pm CEST.
+Check the recording of the meeting :
+  </description>
+    </item>
+    
+    <item>
+      <title>Save the date of the next SASIP webinars</title>
+      <link>https://mediation-catalog.github.io/news/savedates/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/savedates/</guid>
+      <description>Mark your calendars for our next webinars:
+ January the 27th by Ludovic Moreau, February the 23rd by Ivo Pasmans.  </description>
+    </item>
+    
+    <item>
+      <title>SASIP Webinar #5 - Jean-Pierre Auclair - December 16th 3pm</title>
+      <link>https://mediation-catalog.github.io/news/webinar5/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/webinar5/</guid>
+      <description>Our SASIP Webinar #5 with Jean-Pierre Auclair on &amp;lsquo;Studying sea ice dynamics and wave-ice interactions in the marginal ice zone&amp;rsquo; took place on Thursday 16 December at 3pm CEST.
+Check the recording of the meeting :
+  In his talk, Jean-Pierre will showed how the Marginal Ice Zone (MIZ) is a highly dynamic region between the open ocean and the inner ice pack. The ice over this region is subjected to waves, introducing new forces but also changing the ice from a cohesive material to a mobile collection of floes.</description>
+    </item>
+    
+    <item>
+      <title>SASIP Webinar #4 - Tobias Finn - Nov 24th 3pm</title>
+      <link>https://mediation-catalog.github.io/news/webinar4/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/webinar4/</guid>
+      <description>Our SASIP Webinar #4 with Tobias Finn on &amp;lsquo;Making the explicit link between Gaussian process regression and ensemble data assimilation&amp;rsquo; took place on Wednesday 24 November at 3pm CEST.
+Check the recording of the meeting :
+  In his talk, Tobias showed how Gaussian process regression, also called Kriging, might help us to learn sub-grid-scale dynamics of sea ice. Starting with linear regressions, he explained in a stepwise manner the reasoning behind this type of machine learning.</description>
+    </item>
+    
+    <item>
+      <title>SASIP Webinar #3 - Polly Smith - Oct 27th 3pm</title>
+      <link>https://mediation-catalog.github.io/news/webinar3/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/webinar3/</guid>
+      <description>Our SASIP Webinar #3 with Polly Smith on &amp;lsquo;Data Assimilation for State and Parameter Estimation&amp;rsquo; took place on Wednesday 27 October at 3pm CEST.
+After briefly introducing herself and giving a summary of her research experience, Polly described how we can use data assimilation techniques to deliver improved estimates of uncertain, or poorly known, model parameters alongside the model state. She outlined the theory of joint state-parameter estimation and then discuss aspects related to practical implementation of the approach, using examples from some of her previous work.</description>
+    </item>
+    
+    <item>
+      <title>Webinars will be back soon</title>
+      <link>https://mediation-catalog.github.io/news/coming_soon/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/coming_soon/</guid>
+      <description>Coming soon:
+Polly will speak about data assimilation for parameter estimation, using data assimilation for joint state-parameter estimation, coupled atmosphere-ocean data assimilation.
+Tobias will talk about combining data assimilation with machine learning and vice versa, borrowing ideas from ensemble data assimilation for machine learning.
+Jean-Pierre will talk about breaking the ice: wave-ice interactions from averages to distinct events and vice-versa.</description>
+    </item>
+    
+    <item>
+      <title>SASIP Webinar #2 - Christopher Horvat</title>
+      <link>https://mediation-catalog.github.io/news/webinar2/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/webinar2/</guid>
+      <description>Christopher Horvat talked about Observing and Modelling the Marginal Ice Zone:
+Check the recording of the meeting :
+  And the presentation&amp;rsquo;s slides are available here : https://www.dropbox.com/s/8dnypn9byzdfn2g/SASIP-MIZ.pptx?dl=0</description>
+    </item>
+    
+    <item>
+      <title>New paper: Dansereau et al (2022)</title>
+      <link>https://mediation-catalog.github.io/news/paper-vero/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/paper-vero/</guid>
+      <description>Veronique Dansereau et al. from WP2 publishes a SASIP-related paper.
+This paperr discusses the numerical challenges pertaining to the treatment of advection in models that represent both the extreme gradients associated with brittle fracturing and the large, permanent post-fracture deformations in complex geomaterials. When developing the Maxwell-Elasto-Brittle rheological model for sea ice, we chose to go Eulerian and to make use of the Discontinuous Galerkin methods. Their implementation and first results are presented here.</description>
+    </item>
+    
+    <item>
+      <title>SASIP Webinar #1 - Véronique Dansereau</title>
+      <link>https://mediation-catalog.github.io/news/webinar1/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/webinar1/</guid>
+      <description>Véronique Dansereau talks about a continuum viscous-elastic-brittle, FEM/DG model for the fracture and drift of sea ice
+The thin ice covering the polar oceans is a complex geomaterial that is constantly breaking and moving under the action of the winds and ocean currents. Doing so, it also experiences rheological transitions between a brittle solid and a granular fluid regime. A simple continuum mechanical framework was recently developed in the view of representing the dynamics of sea ice in regional and global stand-alone sea ice or coupled climate models.</description>
+    </item>
+    
+    <item>
+      <title>Kick-off meeting</title>
+      <link>https://mediation-catalog.github.io/news/kick-off/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/kick-off/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New paper: Horvat et al (2022)</title>
+      <link>https://mediation-catalog.github.io/news/nature-chris/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/news/nature-chris/</guid>
+      <description>Chris Horvat from WP3 publishes a SASIP-related paper in Nature Communications.
+Read more about how sea ice models should be compared based on how they represent the marginal ice zone, not sea ice extent or area. One of SASIP&amp;rsquo;s primary goals is to improve the representation of marginal ice zones, especially wave-ice and floe size interactions.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mediation-catalog.github.io/pages/about/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/pages/about/</guid>
+      <description>What is going on The project focuses on developing innovative tools and raise knowledge on ocean modelling, in order to better assess the impact of climate change on the global ocean and to efficiently inform stakeholders. It meets the sixth challenge among the seven set out by the french Priority Research Program (PPR) named &amp;lsquo;Océan et Climat&amp;rsquo;. It consists in a large-scale, multidisciplinary, publicly-funded initiative, determined by 3 main goals:</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mediation-catalog.github.io/pages/about_old/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/pages/about_old/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code and Data</title>
+      <link>https://mediation-catalog.github.io/pages/code_old/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/pages/code_old/</guid>
+      <description>Codes Our codes will be publicly available in our github repository.
+Datasets Here is the list of the datasets available shared by SASIP participants. Alongside this catalog, you can also learn how to access the shared datasets and/or add new ones.</description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>https://mediation-catalog.github.io/history/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/history/</guid>
+      <description>About Heading  </description>
+    </item>
+    
+    <item>
+      <title>Webinars</title>
+      <link>https://mediation-catalog.github.io/pages/webinars/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/pages/webinars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://mediation-catalog.github.io/pages/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/pages/publications/</guid>
+      <description>2025   Horvat, Buckley, Stewart: Sea Ice Concentration Estimates from ICESat-2 Linear Ice Fraction. Part 2: Gridded Data Comparison and Bias Estimation, EGUsphere, January, 2025, preprint.
+  Zhao, Horvat, Gao: An optimal path threshold method for rigorously identifying extreme climate events, Environnemental Research Letters, February, 2025.
+  Durand, Finn, Farchi, Bocquet, Brajard, Bertino: Four-dimensional variational data assimilation with a sea-ice thickness emulator, The Cryosphere, February, 2025, preprint.</description>
+    </item>
+    
+  </channel>
+</rss>

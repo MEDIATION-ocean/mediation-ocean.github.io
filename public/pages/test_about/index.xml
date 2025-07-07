@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About the project on MEDIATION Catalog</title>
+    <link>https://mediation-catalog.github.io/pages/test_about/</link>
+    <description>Recent content in About the project on MEDIATION Catalog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate><atom:link href="https://mediation-catalog.github.io/pages/test_about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is available</title>
+      <link>https://mediation-catalog.github.io/pages/test_about/available/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/pages/test_about/available/</guid>
+      <description>The tools, simulations and observations are listed and detailed on the MEDIATION catalog. They are either available by direct download on this repository, or by a hyperlink / access path.</description>
+    </item>
+    
+    <item>
+      <title>What is going on</title>
+      <link>https://mediation-catalog.github.io/pages/test_about/ongoing/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://mediation-catalog.github.io/pages/test_about/ongoing/</guid>
+      <description>The project focuses on developing innovative tools and raise knowledge on ocean modelling, in order to better assess the impact of climate change on the global ocean and to efficiently inform stakeholders. It meets the sixth challenge among the seven set out by the french Priority Research Program (PPR) named &amp;lsquo;Océan et Climat&amp;rsquo;. It consists in a large-scale, multidisciplinary, publicly-funded initiative, determined by 3 main goals:
+ To better understand and adapt to how the global ocean responds to the climate change, To maintain and develop a sustainable anthropic exploitation of oceanic resources, To reduce ocean pollution.</description>
+    </item>
+    
+  </channel>
+</rss>
