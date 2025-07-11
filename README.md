@@ -1,4 +1,4 @@
-# MEDIATION catalog Website Sources
+# MEDIATION catalog website sources
 
 ![github pages](https://github.com/sasip-climate/sasip-climate.github.io/actions/workflows/build-and-deploy.yaml/badge.svg)
 
